@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+*/venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (optional, if you use VSCode)
+.vscode/
+
+# Other IDE configurations
+.idea/
+
+# Log files
+*.log
+
+# Data files (if applicable)
+*.csv
+*.xlsx
